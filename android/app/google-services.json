@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979233594639",
+    "project_id": "eproject-4fbc1",
+    "storage_bucket": "eproject-4fbc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979233594639:android:de10349e153bf62c3d727a",
+        "android_client_info": {
+          "package_name": "com.eproject.sms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI6I3yfCpJpKq4XGGcjiQc3C1mTTz8-QE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
